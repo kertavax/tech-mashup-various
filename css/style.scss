@@ -1,0 +1,9 @@
+// hide the duplicated video created somehow via p5js / canvas
+video[crossorigin="anonymous"] { 
+	display: none;
+}
+
+.fluid {
+	max-width: 100%;
+	height: auto;
+}
